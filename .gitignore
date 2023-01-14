@@ -1,0 +1,13 @@
+# COnfiguration files
+.vscode/
+__pycache__/
+.DS_Store
+
+# Environment files
+sudokuenv/
+.activate.sh
+.deactivate.sh
+
+# Large files
+
+puzzles/sudoku.csv
